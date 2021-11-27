@@ -1,1 +1,1 @@
-# full_stack_web_dev_course
+# full_stack_web_dev
